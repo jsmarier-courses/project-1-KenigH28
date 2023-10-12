@@ -9,7 +9,6 @@ Kening Huang
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
 https://jsmarier-courses.github.io/project-1-KenigH28/
-
 ##CSS:
 
 1. I adjust the width of my photo to 70% of the original.
